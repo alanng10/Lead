@@ -47,3 +47,5 @@ Lead has park kind arch benefit.
 Lead has park kind arch marry.
 
 Lead has park kind arch land.
+
+Lead has major.
